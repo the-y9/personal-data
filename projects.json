@@ -1,5 +1,12 @@
 [
   {
+    "title": "FAQ Bot",
+    "description": "A semantic search-based chatbot designed to answer frequently asked questions using Sentence-Transformers model and embeddings.",
+    "image": "./img/faq-bot.png",
+    "link": "https://faq-bot-u90z.onrender.com/",
+    "tags": ["Semantic Search", "Sentence-Transformers", "Embeddings", "NLP", "PyTorch", "Machine Learning", "Chatbot", "FAQ", "Python","FastAPI"]
+  },
+  {
     "title": "Mental Health Classifier",
     "description": "A Voting Classifier using multiple algorithms with 93.7% accuracy over unseen data.",
     "image": "./img/mental_health.png",
@@ -46,7 +53,7 @@
     "description": "A computer vision application that captures video and uses MiDaS for depth estimation.",
     "image": "./img/cam_vision_depth.png",
     "link": "https://github.com/the-y9/Cam_Vision_Depth",
-    "tags": ["Computer Vision", "MiDaS", "Depth Estimation", "Python", "Video Processing", "Image Analysis"]
+    "tags": ["Computer Vision", "MiDaS", "Depth Estimation", "Python", "Video Processing"]
   },
   {
     "title": "Sentiment-Prediction-on-Movie-reviews",
@@ -74,12 +81,13 @@
     "description": "Enhances low-light images using denoising and super-resolution techniques.",
     "image": "./img/denoising.png",
     "link": "https://github.com/the-y9/Denoising",
-    "tags": ["SwinIR", "Image Processing", "Super-Resolution", "Denoising", "Python", "Computer Vision", "Deep Learning"]
+    "tags": ["SwinIR", "Image Processing", "Super-Resolution", "Denoising", "Python", "Deep Learning"]
   },
   {
     "title": "Multi-Lingual Sentiment Analysis",
     "description": "Deep learning model that can classify sentiment in text across 13 Indian languages into two categories: Positive or Negative.",
     "image": "./img/mlsa.png",
     "link": "https://github.com/the-y9/Multi-Lingual-Sentiment-Analysis",
-    "tags": ["Deep Learning", "Sentiment Analysis", "NLP", "Python", "Machine Learning", "Text Classification", "Multi-Lingual", "Meta", "Llama", "LLama 3 8B Instruct Model"]}
+    "tags": ["Deep Learning", "Sentiment Analysis", "NLP", "Python", "Machine Learning", "Text Classification", "Multi-Lingual", "Meta", "Llama", "LLama 3 8B Instruct Model", "Embeddings"]
+  }
 ]
