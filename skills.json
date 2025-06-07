@@ -7,7 +7,7 @@
     { "name": "c", "level": "learner", "category": "language", "tags": ["developer", "language", "systems_programming"] },
   
     { "name": "javascript", "level": "practitioner", "category": "language", "tags": ["developer", "frontend", "language"] },
-    { "name": "react.js", "level": "practitioner", "category": "framework", "tags": ["developer", "frontend", "framework"] },
+    { "name": "react.js", "level": "advanced", "category": "framework", "tags": ["developer", "frontend", "framework"] },
     { "name": "pytorch", "level": "practitioner", "category": "framework", "tags": ["ai_ml", "data_science", "deep_learning", "framework"] },
     { "name": "ml", "level": "practitioner", "category": "concept", "tags": ["ai_ml", "data_science", "machine_learning"] },
     { "name": "deep learning", "level": "practitioner", "category": "concept", "tags": ["ai_ml", "deep_learning"] },

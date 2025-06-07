@@ -39,14 +39,14 @@
     "description": "Manages e-books and sections with Flask + Vue.js. Role-based access control for users and librarians.",
     "image": "./img/lib_man.png",
     "link": "https://github.com/the-y9/LibraryManagement",
-    "tags": ["Flask", "Vue.js", "SQL", "Role-Based Access", "Full Stack", "Python", "JavaScript", "SQLite", "Web Development", "Library System"]
+    "tags": ["Flask", "Vue.js", "SQL", "Role-Based Access", "Full Stack", "Python", "JavaScript", "SQLite", "Web Development"]
   },
   {
     "title": "Project Tracker",
     "description": "RAG-based chatbot system for project management and progress tracking.",
     "image": "./img/pro_track.png",
     "link": "https://github.com/the-y9/soft-engg-project-sep-2024-se-sep-8",
-    "tags": ["LLM", "Chatbot", "RAG", "Flask", "Gemini", "Project Management", "Progress Tracking", "Web Development", "Python"]
+    "tags": ["LLM", "Chatbot", "RAG", "Flask", "Gemini", "Project Management", "Progress Tracking", "Web Development","Full Stack","SQLite", "Python"]
   },
   {
     "title": "Cam_Vision_Depth",
