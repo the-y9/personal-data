@@ -32,5 +32,6 @@
     { "name": "sqlite", "level": "advanced", "category": "database", "tags": ["developer", "database", "sql", "embedded_database"] },
     { "name": "postgresql", "level": "practitioner", "category": "database", "tags": ["developer", "database", "sql", "open_source"] },
     { "name": "vue.js", "level": "advanced", "category": "framework", "tags": ["developer", "frontend", "framework"] },
-    { "name": "restapi", "level": "advanced", "category": "framework", "tags": ["developer", "backend", "api", "web_services"] }
+    { "name": "restapi", "level": "advanced", "category": "framework", "tags": ["developer", "backend", "api", "web_services"] },
+    { "name": "MLOps", "level": "learner", "category": "concept", "tags": ["ai_ml", "data_science", "machine_learning_operations"] }
   ]  
