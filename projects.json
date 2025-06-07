@@ -30,6 +30,7 @@
   {
     "title": "Backend for Tesseract OCR",
     "description": "Flask API for image-to-text using Tesseract OCR, with bounding box detection.",
+    "detail": "Built a Flask API for text extraction from base64 images using Tesseract OCR. Implemented OCR and bounding box detection with Pytesseract and Pillow. Ensured API robustness through error handling and input validation.",
     "image": "./img/word-bboxes.png",
     "link": "https://github.com/the-y9/tesseract-ocr-api",
     "tags": ["Flask", "OCR", "Tesseract", "Pillow", "API", "Python", "Text Recognition", "Image Processing"]
