@@ -46,8 +46,9 @@
   },
   {
     "title": "Project Tracker",
-    "description": "RAG-based chatbot system for project management and progress tracking.",
+    "description": "RAG-based chatbot system for project management and progress tracking using Google Gemini.",
     "image": "./img/pro_track.png",
+    "demo": "https://soft-engg-project-sep-2024-se-sep-8.onrender.com",
     "link": "https://github.com/the-y9/soft-engg-project-sep-2024-se-sep-8",
     "tags": ["LLM", "Chatbot", "RAG", "Flask", "Gemini", "Project Management", "Progress Tracking", "Web Development","Full Stack","SQLite", "Python"]
   },
