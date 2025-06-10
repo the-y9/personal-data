@@ -3,7 +3,8 @@
     "title": "FAQ Bot",
     "description": "A semantic search-based chatbot designed to answer frequently asked questions using Sentence-Transformers model and embeddings.",
     "image": "./img/faq-bot.png",
-    "link": "https://faq-bot-u90z.onrender.com/",
+    "demo": "https://faq-bot-u90z.onrender.com/",
+    "link": "https://github.com/the-y9/FAQ-Bot",
     "tags": ["Semantic Search", "Sentence-Transformers", "Embeddings", "NLP", "PyTorch", "Machine Learning", "Chatbot", "FAQ", "Python","FastAPI"]
   },
   {
@@ -18,7 +19,7 @@
     "description": "Data-Driven Optimization for B2B HVAC&R operations at Blue Star. Analysis, reporting, and strategy design.",
     "image": "./img/icon.jpeg",
     "link": "https://github.com/the-y9/BDM-Report",
-    "tags": ["Excel", "Pandas", "Business Intelligence", "Python", "Data Analysis", "Optimization", "Reporting"]
+    "tags": ["Pandas", "Python", "Excel", "Data Analysis", "Presentation", "Reporting"]
   },
   {
     "title": "Image Depth Estimation",
@@ -39,6 +40,7 @@
     "title": "Library Management System",
     "description": "Manages e-books and sections with Flask + Vue.js. Role-based access control for users and librarians.",
     "image": "./img/lib_man.png",
+    "demo": "https://librarymanagement-7omf.onrender.com",
     "link": "https://github.com/the-y9/LibraryManagement",
     "tags": ["Flask", "Vue.js", "SQL", "Role-Based Access", "Full Stack", "Python", "JavaScript", "SQLite", "Web Development"]
   },
@@ -54,7 +56,7 @@
     "description": "A computer vision application that captures video and uses MiDaS for depth estimation.",
     "image": "./img/cam_vision_depth.png",
     "link": "https://github.com/the-y9/Cam_Vision_Depth",
-    "tags": ["Computer Vision", "MiDaS", "Depth Estimation", "Python", "Video Processing"]
+    "tags": ["Computer Vision", "MiDaS", "Depth Estimation", "Python", "Video Processing","Flask", "OpenCV"]
   },
   {
     "title": "Sentiment-Prediction-on-Movie-reviews",
