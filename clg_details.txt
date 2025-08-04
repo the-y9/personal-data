@@ -1,0 +1,32 @@
+I have pursued a comprehensive curriculum with a strong focus on data-centric technologies, software development, and a minor specialization in finance.
+
+Data-Centric Courses
+
+Data Mining
+Machine Learning Techniques and Practices
+Deep Learning
+Algorithms in Artificial Intelligence
+Large Language Models
+Generative AI
+Business Data Management and Analytics
+
+Software Development Courses
+
+Python Data Structures and Algorithms
+Database Management System
+Modern Application Development
+(Projects include: Flashcard Application, Ticket Booking System, and Library Management System)
+Programming Concepts using Java (OOPS)
+Software Testing and Engineering
+(Project: Assignment and Project Tracker using Gemini and Github)
+System Command Programming
+
+Minor in Finance
+
+Managerial Economics
+Corporate Finance
+Game Theory
+
+Leadership and Extracurricular Activities
+
+Organized and led a successful inter-college debate competition titled "Knock Talk", featuring multiple online and offline rounds. The event attracted widespread participation and was recognized for its structured execution and high level of engagement.
