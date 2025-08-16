@@ -31,5 +31,6 @@
   { "name": "MLOps", "level": "learner", "category": "concept", "tags": ["ai_ml", "data_science", "machine_learning_operations"] },
   { "name": "java", "level": "learner", "category": "language", "tags": ["developer", "language", "backend"] },
   { "name": "c", "level": "learner", "category": "language", "tags": ["developer", "language", "systems_programming"] },
-  { "name": "php", "level": "learner", "category": "language", "tags": ["developer", "backend", "language"] }
+  { "name": "php", "level": "learner", "category": "language", "tags": ["developer", "backend", "language"] },
+  { "name": "mlflow", "level": "learner", "category": "tool", "tags": ["ai_ml", "data_science", "machine_learning_framework"] }  
 ]
