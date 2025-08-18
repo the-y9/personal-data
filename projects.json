@@ -93,5 +93,20 @@
     "image": "./img/mlsa.png",
     "link": "https://github.com/the-y9/Multi-Lingual-Sentiment-Analysis",
     "tags": ["Deep Learning", "Sentiment Analysis", "NLP", "Python", "Machine Learning", "Text Classification", "Multi-Lingual", "Meta", "Llama", "LLama 3 8B Instruct Model", "Embeddings"]
+  },
+  {
+    "title": "Thyroid Recurrence Prediction",
+    "description": "An end to end machine learning prototype that predicts the recurrence of thyroid cancer",
+    "image": "./img/thyroid.png",
+    "link": "https://github.com/the-y9/thyroid_cancer_recurrence",
+    "demo": "https://thyroid-cancer-recurrence-868l.onrender.com/",
+    "tags": ["Machine Learning", "MlFlow", "SHAP", "FastAPI", "Healthcare", "Python", "Data Science", "Predictive Modeling", "Web Development"]
+  },
+  {
+    "title": "Health Bot",
+    "description": "A health-related chatbot that provides information and answers to health-related queries using a knowledge base.",
+    "image": "./img/health_bot.png",
+    "link": "https://github.com/the-y9/health-bot",
+    "tags": ["Chatbot", "RAG", "FastAPI", "Gemini", "Sentence-Transformers", "Embeddings", "NLP", "Python", "Machine Learning", "Web Development"]
   }
 ]
