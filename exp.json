@@ -1,29 +1,18 @@
 [
-    {
-      "link": "https://www.linkedin.com/company/idemiagroup/posts/?feedView=all",
-      "image": "./img/Idemia_Logo.jpg",
-      "company": "IDEMIA",
-      "department": "Software for Industrial Engineering",
-      "role": "Developer Intern",
-      "location": "SEZ, Noida",
-      "duration": "Mar 2025 – May 2025",
-      "tags": ["React.js", "FastAPI", "MS SQL", "Redux", "Hooks", "JavaScript"],
-      "description": "As a Developer Intern at IDEMIA, I am responsible for developing and maintaining dynamic, responsive user interfaces using React.js. My work includes implementing client-side routing, managing complex application state with Redux, and leveraging React Hooks to enhance performance and user experience. Additionally, I have integrated FastAPI with an MS SQL database to enable conditional rendering of data points by joining various master tables, facilitating robust and scalable backend connectivity. Used python scripts to automate data updates for test cases."
-  
-    },
+    
     {
   "link": "https://www.sunworksconsultants.com",
-  "image": "https://www.sunworksconsultants.com/images/logo.png",
+  "image": "./img/sunworks.png", 
   "company": "Sunworks Consultants Pvt. Ltd.",
   "department": "AI/ML & Data Analytics",
-  "role": "AI/ML Development Intern",
+  "role": "AI Intern",
   "location": "Gurgaon, India",
   "duration": "Aug 2025 – Sept 2025",
   "timeline": {
     "start": "2025-08-01",
     "end": "2025-09-30"
   },
-  "tags": ["AI", "ML", "Django", "Python", "PostgreSQL", "ElasticSearch", "Data Visualization", "Big Data", "Internship"],
+  "tags": ["AI", "NLP", "Python", "RAG", "Ollama", "LLM"],
   "techStack": ["Python", "Django", "PostgreSQL", "ElasticSearch", "PHP", "Symphony"],
   "responsibilities": [
     "Developed backend systems for financial data analysis using Django",
@@ -41,7 +30,31 @@
   "confidential": true,
   "industry": "FinTech",
   "description": "Worked on designing and deploying a predictive analytics system for large-scale financial datasets. Contributed to the development of an AI/ML-based electronic intelligence system aimed at fusing proprietary, governmental, and open data. Responsibilities included backend development using Python (Django), creating data visualization dashboards, performing database analysis, and participating in report preparation and user reviews."
-}
+},
+{
+      "link": "https://www.linkedin.com/company/idemiagroup/posts/?feedView=all",
+      "image": "https://www.unifiedmentor.com/assets/Colored%20Logo-DMx5DaFN.png",
+      "company": "Unified Mentor",
+      "department": "",
+      "role": "Machine Learning Intern",
+      "location": "Gurugram, India",
+      "duration": "June 2025 – July 2025",
+      "tags": ["Machine Learning", "Python", "FastAPI", "MLFLow", "Data Science", "SHAP" ],
+      "description": ""
+  
+    },
+    {
+      "link": "https://www.linkedin.com/company/idemiagroup/posts/?feedView=all",
+      "image": "./img/Idemia_Logo.jpg",
+      "company": "IDEMIA",
+      "department": "Software for Industrial Engineering",
+      "role": "Developer Intern",
+      "location": "SEZ, Noida",
+      "duration": "March 2025 – May 2025",
+      "tags": ["React.js", "FastAPI", "MS SQL", "Redux", "Hooks", "JavaScript"],
+      "description": "As a Developer Intern at IDEMIA, I am responsible for developing and maintaining dynamic, responsive user interfaces using React.js. My work includes implementing client-side routing, managing complex application state with Redux, and leveraging React Hooks to enhance performance and user experience. Additionally, I have integrated FastAPI with an MS SQL database to enable conditional rendering of data points by joining various master tables, facilitating robust and scalable backend connectivity. Used python scripts to automate data updates for test cases."
+  
+    }
 
   ]
   

@@ -4,13 +4,15 @@
       "link": "https://www.iitm.ac.in/",
       "degree": "BS in Data Science and Applications",
       "institution": "Indian Institute of Technology Madras",
-      "duration": "2021 - Present"
+      "country": "India",
+      "duration": "2021 - 2025"
     },
     {
       "image": "./img/Birla-Vidya-Mandir.jpg",
       "link": "https://birlavidyamandir.com/",
       "degree": "X, XII",
       "institution": "Birla Vidyamandir, Nainital",
+      "country": "India",
       "duration": "2018, 2020"
     }
   ]
