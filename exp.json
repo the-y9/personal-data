@@ -39,6 +39,10 @@
       "role": "Machine Learning Intern",
       "location": "Gurugram, India",
       "duration": "June 2025 – July 2025",
+      "timeline": {
+        "start": "2025-06-20",
+        "end": "2025-07-20"
+      },
       "tags": ["Machine Learning", "Python", "FastAPI", "MLFLow", "Data Science", "SHAP" ],
       "description": ""
   
@@ -51,6 +55,10 @@
       "role": "Developer Intern",
       "location": "SEZ, Noida",
       "duration": "March 2025 – May 2025",
+      "timeline": {
+        "start": "2025-03-11",
+        "end": "2025-05-10"
+      },
       "tags": ["React.js", "FastAPI", "MS SQL", "Redux", "Hooks", "JavaScript"],
       "description": "As a Developer Intern at IDEMIA, I am responsible for developing and maintaining dynamic, responsive user interfaces using React.js. My work includes implementing client-side routing, managing complex application state with Redux, and leveraging React Hooks to enhance performance and user experience. Additionally, I have integrated FastAPI with an MS SQL database to enable conditional rendering of data points by joining various master tables, facilitating robust and scalable backend connectivity. Used python scripts to automate data updates for test cases."
   

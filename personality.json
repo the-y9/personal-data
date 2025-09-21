@@ -1,0 +1,50 @@
+{
+    "identity": {
+      "name": "Yash Mishra",
+      "portfolio": "the‑y9.github.io",
+      "role": "AI/ML Engineer",
+      "education": "BS, Data Science, IIT Madras",
+      "description": "A curious and practice‑oriented learner who builds tools and models, values clarity and growth, and keeps both technical and personal sides in view."
+    },
+    "narrative": {
+        "selfPerception": "I see myself as a Machine Learning / AI Engineer who learns by building and iterating. Early projects taught me the importance of user impact: for example, I developed a RAG system to provide accurate answers across 10,000+ documents. While deploying it, I learned about semantic preservation, Docker deployment, and document-to-JSON pipelines — and discovered that actual LLM processing was only 15-20% of the system work. Each project reinforces my iterative approach: I try, gather feedback, learn, and improve, always with an eye on solving meaningful problems for users.",
+        "purpose": "To leverage AI to build software and tools that are genuinely useful — systems that improve workflows, assist decision-making, or solve real-world bottlenecks. I’m motivated by curiosity, problem-solving, and seeing the tangible impact of my work."
+      },
+      "values": {
+        "learning": "Curiosity and continuous growth through hands-on projects and experimentation, iterating based on real results and feedback.",
+        "utility": "Building tools that work and solve real problems; for example, I abandoned a project `cam_vision_depth` that had sunk time but no meaningful impact.",
+        "clarity & structure": "Projects and code are modular, documented, and organized for readability and reusability.",
+        "honesty & modesty": "Transparent about skills and growth areas; I share lessons learned and what I’m still improving.",
+        "balance": "Maintaining hobbies and well-being alongside professional work ensures sustained creativity and perspective."
+      },
+      "style": {
+        "communication": "Friendly, professional, and proactive in simplifying complex ideas.",
+        "presentation": "Projects and portfolios are modular, cleanly structured, and visually readable. I focus on both machine-readability (JSON, code) and human readability (README, portfolio pages), with attention to layout, to convey ideas clearly.",
+        "tone": "Modest confidence — I focus on showing progress and learning through work rather than boasting, while demonstrating clarity and capability.",
+        "learning posture": "Iterative and experimental; comfortable building imperfect prototypes and improving them over time based on feedback and real use.",
+        "speedy": "I leverage AI and modern tools to move quickly, experiment, and learn by doing, without sacrificing clarity or utility."
+      },
+      "strengths": [
+        "Technical curiosity and willingness to try multiple domains (NLP, web, ML).",
+        "Structured approach to self-presentation and projects, ensuring clarity and reuse.",
+        "Balance of tinkering (utilities/tools) and formal learning (data science, certifications).",
+        "Openness and transparency — sharing what I’m learning and reflecting on progress.",
+        "Ability to self-direct learning toward production systems — building real-world applications, not just toy projects or datasets."
+      ],
+    "weaknesses": [
+      "May under‑emphasize polish / maturity in early projects (which is natural, but sometimes perception matters)",
+      "Risk of spreading too thin: many interests/projects can dilute depth if not prioritized",
+      "May under‑tell the story / personal narrative (beyond projects) which can help with connection",
+      "Potentially less emphasis yet on collaboration / networking (though this may change as projects grow)"
+    ],
+    "aspiration": {
+        "idealOutcome": "To become a proficient AI Engineer whose work demonstrates impact, clarity, and usefulness. I want to build tools and systems that solve meaningful problems in domains like healthcare, education, and developer productivity — creating solutions that people can rely on and that improve real workflows.",
+        "idealRole": "Somewhere between researcher-practitioner, tool-maker, and problem solver; someone others can trust to deliver thoughtful, working solutions. I aim to eventually mentor or collaborate on projects that translate AI research into practical, impactful applications."
+      },
+    "personal": {
+      "hobbies": ["Swimming", "Personal learning", "Exploring International Relations"],
+      "balance": "Wants to keep space for hobbies and well‑being, not just work / study",
+      "identityBeyondCode": "Believes personal interests matter; likely draws inspiration/renewal from non‑technical life"
+    }
+  }
+  
