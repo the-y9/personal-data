@@ -5,15 +5,15 @@
   "image": "./img/sunworks.png", 
   "company": "Sunworks Consultants Pvt. Ltd.",
   "department": "AI/ML & Data Analytics",
-  "role": "AI Intern",
+  "role": "AI Engineer",
   "location": "Gurgaon, India",
-  "duration": "Aug 2025 – Sept 2025",
+  "duration": "Oct 2025 – *",
   "timeline": {
-    "start": "2025-08-01",
-    "end": "2025-09-30"
+    "start": "2025-10-01",
+    "end": ""
   },
-  "tags": ["AI", "NLP", "Python", "RAG", "Ollama", "LLM"],
-  "techStack": ["Python", "Django", "PostgreSQL", "ElasticSearch", "PHP", "Symphony"],
+  "tags": ["AI", "NLP", "Python", "RAG", "Ollama", "LLM", "Scrapy"],
+  "techStack": ["Python", "Docker"],
   "responsibilities": [
     "Developed backend systems for financial data analysis using Django",
     "Built interactive dashboards for visualizing trends and patterns",
@@ -28,8 +28,8 @@
   "supervisor": "Vikas Sharma, Managing Director",
   "certificateLink": "https://your-drive-or-link.com/internship-certificate.pdf",
   "confidential": true,
-  "industry": "FinTech",
-  "description": "Worked on designing and deploying a predictive analytics system for large-scale financial datasets. Contributed to the development of an AI/ML-based electronic intelligence system aimed at fusing proprietary, governmental, and open data. Responsibilities included backend development using Python (Django), creating data visualization dashboards, performing database analysis, and participating in report preparation and user reviews."
+  "industry": "",
+  "description": "AI Intern: Aug - Oct 2025\n\nWorked on designing and deploying a RAG. Contributed to the development of an AI/ML-based recommendation system. Responsibilities included backend development using Python (Django)."
 },
 {
       "link": "https://www.linkedin.com/company/idemiagroup/posts/?feedView=all",
